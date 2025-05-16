@@ -32,6 +32,7 @@ This Power BI report delivers a comprehensive financial analysis of a SaaS compa
 - **Overview Page**: Executive KPIs & insights
 - **Revenue Analysis**: Revenue trends, sources, and variance
 - **Expense Breakdown**: Spending patterns and high-cost area  
+ [click to view]( https://github.com/Clacksanalysis/SaaS-Financial-Insights-Report-Expense-Revenue-Analysis-/blob/710b21d4d687db5ca3ead602d18de937408bf8a7/SaaS%20Fianacial%20DB.pdf)
 
 ## 🔎 Notable Insights
 - ✅ The company was **profitable in May and June**, with **June** being the most profitable month.
